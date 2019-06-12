@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^Home$ index.php
+RewriteRule ^Process$ process.php
+RewriteRule ^SignIn$ signin.php
+RewriteRule ^SignUp$ signup.php
+RewriteRule ^Forgot_Password$ forgot_password.php
